@@ -1,6 +1,6 @@
 - 👋 ## Olá! Eu sou a Marcela Menezes
 
-- 👀 Estagiária Mobile IOS 📲
+- 👀 Desenvolvedora Mobile IOS Jr. 📲
 
 - 🌱 Atualmente estou estudando Swift
 
